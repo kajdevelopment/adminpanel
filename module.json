@@ -1,0 +1,13 @@
+{
+    "name": "KajPanel",
+    "alias": "kajpanel",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\KajPanel\\Providers\\KajPanelServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
